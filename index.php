@@ -16,11 +16,11 @@
         <div class="col-6 m-auto">
             <div class="card">
             <div class="card-header text-center">
-                <h4>Daftar Buku</h4>
+                <h4>Selamat Datang Di Library Manager</h4>
             </div>
             <div class="card-body">
-              <h4>Selamat Datang Di Library Manager</h4>
-              <p>Tuliskan Kata-kata hari ini </p>
+              <h4>Silahkan Pilih Buku yang anda inginkan</h4>
+              <p>selamat Membaca </p>
             </div>
             </div>
         </div>

@@ -16,7 +16,7 @@
         <div class="col-8 m-auto">
             <div class="card">
             <div class="card-header">
-                <h3 class="float-start">Data Buku</h3>
+                <h3 class="float-start">Daftar Buku</h3>
                 <span class="float-end"><a class="btn btn-primary" href="form.php"><i class="fa-solid fa-square-plus"></i> Tambah Data </a></span>
             </div>
                 <div class="card-body">
@@ -70,11 +70,11 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-      Yakin data <b><?=$data['buku']?></b> ingin dihapus?
+      Yakin data <b><?=$data['judul_buku']?></b> ingin dihapus?
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Batal</button>
-        <a href="hapus.php?xyz=<?=$data['id_buku']?>" class="btn btn-danger">Hapus</a>
+        <a href="hapus.php?abc=<?=$data['id_buku']?>" class="btn btn-danger">Hapus</a>
       </div>
     </div>
   </div>
